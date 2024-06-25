@@ -1,3 +1,4 @@
+/*
 Date: Wed, 12 Aug 1998 13:09:02 +1000
 From: Julian Assange <proff@IQ.ORG>
 Subject: Re: RotoRouter 1.0 - Traceroute log & fake
@@ -10,6 +11,7 @@ Here's one I wrote a couple of years back for personal use.
 
 [This explains the permanent link I had with the Defence Signals Directorate for
  all those years btw ;)]
+*/
 
 /* fakeroute (c) 1996 Julian Assange <proff@iq.org>
  * All Rights Reserved
