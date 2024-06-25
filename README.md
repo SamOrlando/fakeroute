@@ -1,4 +1,5 @@
 This code is a `fakeroute` program written by Julian Assange in 1996. Found it in a pile of old emails I had, so here it is. Wanted to perserve it for history I guess.
+UPDATE: Rotorouter was part of FreeBSD and has been lost really to time.
 
 Now for the ChatGPT breakdown...
 It aims to simulate traceroute responses by sending ICMP packets with spoofed information to mimic the appearance of a network route. Below is a detailed breakdown and explanation of the code:
